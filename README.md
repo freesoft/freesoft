@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I work for Blizzard Entertainment, Battle.net as Senior Software Engineer. 
+- 🔭 I work for Blizzard Entertainment, Battle.net as Senior Software Engineer, but I don't make a game. Oh well, not as my work at office at least. 
 - 🌱 Graduated from B.S in Computer Engineering at Dong-A University, S.Korea
 - 🌱 Graduated from Master's in Computer Science - Data Science(MCS-DS) at Uiversity of Illinois - Urbana Champaign
-- 🌱 Enrolled and admitted for Georgia Tech's OMSCS, starting the program in 2021
+- 🌱 Current Georgia Tech's OMSCS grad program student, started in 2021
 - 💬 Ask me about volunteer chance for any profit or non-profit projects.
 - 📫 How to reach me: https://www.linkedin.com/in/wonheejung/ 
 
